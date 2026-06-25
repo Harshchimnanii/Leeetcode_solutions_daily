@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0217-contains-duplicate) |
+| [2404-most-frequent-even-element](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0217-contains-duplicate) |
+| [2404-most-frequent-even-element](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
