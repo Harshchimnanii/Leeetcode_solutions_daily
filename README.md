@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
