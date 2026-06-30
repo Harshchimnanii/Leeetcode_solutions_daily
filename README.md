@@ -41,4 +41,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [2810-faulty-keyboard](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2810-faulty-keyboard) |
+## Simulation
+|  |
+| ------- |
+| [2810-faulty-keyboard](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
