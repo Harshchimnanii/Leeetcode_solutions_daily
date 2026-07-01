@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0014-longest-common-prefix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0219-contains-duplicate-ii) |
@@ -40,10 +41,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2810-faulty-keyboard) |
 ## Simulation
 |  |
 | ------- |
 | [2810-faulty-keyboard](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2810-faulty-keyboard) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
