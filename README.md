@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0219-contains-duplicate-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2404-most-frequent-even-element](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2810-faulty-keyboard](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2810-faulty-keyboard) |
 ## Simulation
 |  |
