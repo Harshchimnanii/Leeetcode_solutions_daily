@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -74,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0179-largest-number) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
