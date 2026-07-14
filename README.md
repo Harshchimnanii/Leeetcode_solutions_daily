@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0678-valid-parenthesis-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -97,8 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
