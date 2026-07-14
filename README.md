@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0844-backspace-string-compare) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2396-strictly-palindromic-number](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0844-backspace-string-compare) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2810-faulty-keyboard) |
 ## Trie
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Harshchimnanii/Leeetcode_solutions_daily/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
